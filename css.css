@@ -45,7 +45,9 @@ h1 a{
 .sidenote{
 	background-color: #FFFBE4;
 	border: 1px solid #C9BC8F;
+	float : right;
 	padding: 10px;
+	width: 260px;
 }
 .sidenote h3{
 	font-size: 14px;
@@ -58,3 +60,4 @@ h1 a{
 	float:left;
 	width: 660px;
 }
+capitulo3.. pagina27...
